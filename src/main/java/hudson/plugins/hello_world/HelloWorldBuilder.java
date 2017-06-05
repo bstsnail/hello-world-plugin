@@ -33,7 +33,6 @@ import net.sf.json.JSONObject;
  */
 public class HelloWorldBuilder extends Builder {
 
-	test
     private final String name;
 
     /**
